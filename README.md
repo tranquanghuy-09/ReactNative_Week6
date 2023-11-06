@@ -8,7 +8,7 @@ Practice week 6 of mobile programming subject
 
 https://github.com/tranquanghuy-09/ReactNative_Week6/assets/107989088/4fb0e2e7-cc52-459c-a381-ea16eff06ece
 
-## Secondary link demo => [Click here to view](https://github.com/tranquanghuy-09/ReactNative_Week6/issues/1#issue-1977811703)
+## Secondary link demo => [Click here to view](https://youtu.be/rbitlIAN8gg)
 
 # Install
 
